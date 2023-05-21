@@ -1,0 +1,1 @@
+<p>Admin: Update bài viết mới với id: {{$id}}</p>
